@@ -1,0 +1,7 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"newNode","annotation":"Il2Cpp C:/Users/Usuario/Desktop/ADAPTA~2/ADAPTA~1/DEFINI~1/iOS/TANQUE~1/Library/IL2CPP~1/iOS/il2cppOutput","index":1}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/Usuario/Desktop/ADAPTA~2/ADAPTA~1/DEFINI~1/iOS/TANQUE~1/Library/IL2CPP~1/iOS/il2cppOutput","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"Copy Additional C++ File C:/Users/Usuario/Desktop/ADAPTA~2/ADAPTA~1/DEFINI~1/iOS/TANQUE~1/Library/IL2CPP~1/iOS/il2cppOutput/UnityClassRegistration.cpp","index":2}
+{"msg":"newNode","annotation":"Copy Additional C++ File C:/Users/Usuario/Desktop/ADAPTA~2/ADAPTA~1/DEFINI~1/iOS/TANQUE~1/Library/IL2CPP~1/iOS/il2cppOutput/UnityICallRegistration.cpp","index":3}
+{"msg":"noderesult","annotation":"Copy Additional C++ File C:/Users/Usuario/Desktop/ADAPTA~2/ADAPTA~1/DEFINI~1/iOS/TANQUE~1/Library/IL2CPP~1/iOS/il2cppOutput/UnityClassRegistration.cpp","index":2,"exitcode":0}
+{"msg":"noderesult","annotation":"Copy Additional C++ File C:/Users/Usuario/Desktop/ADAPTA~2/ADAPTA~1/DEFINI~1/iOS/TANQUE~1/Library/IL2CPP~1/iOS/il2cppOutput/UnityICallRegistration.cpp","index":3,"exitcode":0}
